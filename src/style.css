@@ -1,0 +1,30 @@
+a{
+    color:white;
+}
+.completed {
+    text-decoration: line-through;
+    color: gray;
+}
+body {
+    background-image: url("background.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+.card{
+    background-color: rgb(214, 202, 218);
+}
+
+.delete-item i {
+    color: rgb(177, 175, 175);
+}
+.delete-item i:hover {
+    color: rgb(214, 202, 218) ;
+}
+
+.btn{
+    background-color: rgb(247, 234, 252);
+}
+
